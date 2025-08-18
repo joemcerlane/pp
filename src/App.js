@@ -7,7 +7,7 @@ import Education from "./components/Education";
 import SkillNote from "./components/SkillNote";
 import Experience from "./components/Experience";
 import Brands from "./components/Brands";
-import Testimonials from "./components/Testimonials";
+// ...existing code...
 import Footer from "./components/Footer";
 
 function App() {

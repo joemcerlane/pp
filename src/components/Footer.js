@@ -1,5 +1,5 @@
 import React from "react";
-import * as Icons from "react-feather";
+// ...existing code...
 import { Twitter, Dribbble, Facebook, Codepen, AtSign, Instagram } from "react-feather";
 
 const socials = [
