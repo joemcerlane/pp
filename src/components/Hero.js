@@ -1,5 +1,5 @@
 import React from "react";
-import homeImg from "../assets/image/PXL_20240316_134524871.jpg";
+import homeImg from "../assets/image/PXL_20231021_004615886.jpg";
 
 const Hero = () => (
     <>
