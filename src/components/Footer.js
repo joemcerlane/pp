@@ -1,15 +1,5 @@
 import React from "react";
 // ...existing code...
-import { Twitter, Dribbble, Facebook, Codepen, AtSign, Instagram } from "react-feather";
-
-const socials = [
-  { icon: <Twitter />, href: "#" },
-  { icon: <Dribbble />, href: "#" },
-  { icon: <Facebook />, href: "#" },
-  { icon: <Codepen />, href: "#" },
-  { icon: <AtSign />, href: "#" },
-  { icon: <Instagram />, href: "#" }
-];
 
 const Footer = () => (
   <footer className="py-10 md:py-16 mb-20 md:mb-40 lg:mb-52">
